@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """
-A base class representing geometry. This is based on the previous base_geometry class.
-It has the area method that raises an exception if not used. Also contains the method
-that validates integers.
+    A base class representing geometry. This is based on the previous base_geometry class.
+    It has the area method that raises an exception if not used. Also contains the method
+    that validates integers.
 """
 
 
